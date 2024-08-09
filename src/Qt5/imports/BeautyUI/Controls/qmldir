@@ -1,0 +1,2 @@
+singleton BRouter 1.0 BRouter.qml
+singleton BEventBus 1.0 BEventBus.qml
